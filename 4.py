@@ -33,7 +33,7 @@ def match(word, d, lst):
     return res
 
 def run():
-    print("Работу выполнина Захарова Анастасия Григорьевна 090301ПОВа-o24")
+    print("Работу выполнила Захарова Анастасия Григорьевна 090301ПОВа-o24")
     file = 'nouns.txt'
     data = load_dict(file)
     if not data:
